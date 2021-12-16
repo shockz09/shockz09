@@ -3,7 +3,7 @@ A passionate web developer from India :)
 ## 🚀 About Me
 I'm a  web developer who is currently learning React
 and backend
-
+[![Gmail Badge](https://img.shields.io/badge/-rohit200827@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.h.strong@gmail.com)](mailto:rohit200827@gmail.com)
 
 
 
