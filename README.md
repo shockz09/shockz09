@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi , Myself Rohit 
+A passionate web developer from India :)
+## 🚀 About Me
+I'm a  web developer who is currently learning React
+and backend
 
-<!--
-**shockz09/shockz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+Javascript, HTML, CSS, React
+
+
+## About
+👩‍💻 I'm currently working on Hackathon website
+
+🧠 I'm currently learning React
+
+👯‍♀️ I'm looking to collaborate on Nothing
+
+🤔 I'm looking for help with CSS
+
+💬 Ask me about Javascript
+
+📫 How to reach me... 
+
+😄 Pronouns... he , his
+
+⚡️ Fun fact...
+I can listen lofi beats whole day
