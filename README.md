@@ -8,13 +8,13 @@ and backend
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React
+Javascript, HTML, CSS, React, Node Js , Express js , Mongo DB , mongoosejs
 
 
 ## About
 👩‍💻 I'm currently working on Hackathon website
 
-🧠 I'm currently learning React
+🧠 I'm currently learning Mongo Db
 
 👯‍♀️ I'm looking to collaborate on Nothing
 
