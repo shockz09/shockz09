@@ -24,7 +24,8 @@
   
   <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=shockz09&theme=github" alt="Github Contribution graph" /></p> 
   
-  
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+
 <div align="center">
  
 ![Spotify playing](http://spotify.aio-api.ml/spotify?id=31trfufhc32s24gtx4vauik26yoe&theme=plain&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false)
