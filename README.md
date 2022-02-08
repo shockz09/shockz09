@@ -9,7 +9,7 @@
 
 <div align="center">
  
-![shockz09's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockz09&show_icons=true&theme=chartreuse-dark&hide_border=true &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![shockz09's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockz09&show_icons=true&theme=chartreuse-dark&hide_border=true)
   
 </div>
 
