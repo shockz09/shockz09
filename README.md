@@ -13,21 +13,21 @@
   
 </div>
 
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shockz09&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
- </div>
+<details>
+  <summary>📊 My Github Stats</summary>
  
-   <p align="left"> <a href="https://github.com/shockz09"><img src="https://github-profile-trophy.vercel.app/?username=shockz09" alt="shockz09" /></a> </p>
-   
-   
-   ### My Contribution graph
+  <p> <img src="https://github-readme-stats.warriordefenderz.vercel.app/api?username=janasunrise&show_icons=true&include_all_commits=true&line_height=25" alt="janasunrise" /></p>
   
-  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=shockz09&theme=github" alt="Github Contribution graph" /></p> 
+  <p align="left"> <a href="https://github.com/janaSunrise"><img src="https://github-profile-trophy.vercel.app/?username=janaSunrise" alt="janaSunrise" /></a> </p>
   
+  ### My Contribution graph
+  
+  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="Github Contribution graph" /></p> 
+  
+  <br />
 
-
+ <p align="left"> <a href="https://github.com/shockz09"><img src="https://github-profile-trophy.vercel.app/?username=shockz09" alt="shockz09" /></a> </p>
+  
 <div align="center">
  
 ![Spotify playing](http://spotify.aio-api.ml/spotify?id=31trfufhc32s24gtx4vauik26yoe&theme=plain&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false)
