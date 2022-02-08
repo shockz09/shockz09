@@ -1,30 +1,35 @@
-# Hi , Myself Rohit 
-A passionate web developer from India :)
-## 🚀 About Me
-I'm a  web developer who is currently learning React
-and backend
-[![Gmail Badge](https://img.shields.io/badge/-rohit200827@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.h.strong@gmail.com)](mailto:rohit200827@gmail.com)
+<h1 align='center' style="color:DodgerBlue;"> Hi there 👋 I'm Rohit Mishra </h1>
 
 
+<div align="center">
 
-## 🛠 Skills
-Javascript, HTML, CSS, React, Node Js , Express js , Mongo DB , mongoosejs
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockz09&layout=compact&theme=chartreuse-dark&hide_border=true)
+
+</div>
+
+<div align="center">
+ 
+![shockz09's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockz09&show_icons=true&theme=chartreuse-dark&hide_border=true)
+  
+</div>
 
 
-## About
-👩‍💻 I'm currently working on Hackathon website
+<div align="center">
 
-🧠 I'm currently learning Mongo Db
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shockz09&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+ 
+</div>
+  <!--
+**shockz09/shockz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👯‍♀️ I'm looking to collaborate on Nothing
+Here are some ideas to get you started:
 
-🤔 I'm looking for help with CSS
-
-💬 Ask me about Javascript
-
-📫 How to reach me... 
-
-😄 Pronouns... he , his
-
-⚡️ Fun fact...
-I can listen lofi beats whole day
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
