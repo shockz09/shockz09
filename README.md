@@ -11,6 +11,13 @@
  
 ![shockz09's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockz09&show_icons=true&theme=chartreuse-dark&hide_border=true)
   
+ 
+ ### 🔥 Streak stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shockz09&theme=algolia" alt="shockz09" />
+</p>
+ 
 </div>
 <br />
 
