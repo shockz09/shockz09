@@ -16,11 +16,11 @@
 
   ### My Contribution graph
   
-  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=janaSunrise&theme=github" alt="Github Contribution graph" /></p> 
+  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=shockz09&theme=github" alt="Github Contribution graph" /></p> 
   
   <br />
 
- <p align="left"> <a href="https://github.com/shockz09"><img src="https://github-profile-trophy.vercel.app/?username=shockz09" alt="shockz09" /></a> </p>
+ <p align="center"> <a href="https://github.com/shockz09"><img src="https://github-profile-trophy.vercel.app/?username=shockz09" alt="shockz09" /></a> </p>
   <br />
 <div align="center">
  
