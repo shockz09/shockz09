@@ -6,13 +6,13 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockz09&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
-
+<br />
 <div align="center">
  
 ![shockz09's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockz09&show_icons=true&theme=chartreuse-dark&hide_border=true)
   
 </div>
-
+<br />
 
   ### My Contribution graph
   
@@ -21,7 +21,7 @@
   <br />
 
  <p align="left"> <a href="https://github.com/shockz09"><img src="https://github-profile-trophy.vercel.app/?username=shockz09" alt="shockz09" /></a> </p>
-  
+  <br />
 <div align="center">
  
 ![Spotify playing](http://spotify.aio-api.ml/spotify?id=31trfufhc32s24gtx4vauik26yoe&theme=plain&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false)
