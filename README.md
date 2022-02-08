@@ -19,11 +19,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shockz09&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
  </div>
  
- ### 🎵 Spotify playing
-
-[<img src="https://spotify-activity.warriordefenderz.vercel.app/api/spotify" alt="Rohit Mishra - Spotify Playing" width="400" />](https://open.spotify.com/user/31trfufhc32s24gtx4vauik26yoe)
-
-
+ <div align="center">
+![Spotify playing](http://spotify.aio-api.ml/spotify?id=31trfufhc32s24gtx4vauik26yoe&theme=plain&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false)
+</div>
   <!--
 **shockz09/shockz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
