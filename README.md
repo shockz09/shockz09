@@ -19,6 +19,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shockz09&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
  </div>
  
+ 
+   ### My Contribution graph
+  
+  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=shockz09&theme=github" alt="Github Contribution graph" /></p> 
+  
+  
 <div align="center">
  
 ![Spotify playing](http://spotify.aio-api.ml/spotify?id=31trfufhc32s24gtx4vauik26yoe&theme=plain&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false)
