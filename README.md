@@ -20,7 +20,7 @@
  </div>
  
  <div align = "center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shockz09&repo=fullstackopen/part2)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shockz09&repo=fullstackopen/part2)](https://github.com/shockz09/fullstackopen/part2)
 
 
  </div>
