@@ -19,12 +19,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shockz09&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
  </div>
  
- 
+   <p align="left"> <a href="https://github.com/shockz09"><img src="https://github-profile-trophy.vercel.app/?username=shockz09" alt="shockz09" /></a> </p>
+   
+   
    ### My Contribution graph
   
   <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=shockz09&theme=github" alt="Github Contribution graph" /></p> 
   
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+
 
 <div align="center">
  
