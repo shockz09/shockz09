@@ -31,9 +31,8 @@
 
   <br />
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/Rohit Mishra#3630
-                            )](https://discord.com/users/Rohit Mishra#3630)
-  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/869540667439874048
+                            )](https://discord.com/users/869540667439874048)
 <div align="center">
 
 </a>
