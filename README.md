@@ -33,7 +33,9 @@
   
   
 <div align="center">
- 
+ <a href="https://discord.com/users/869540667439874048">
+     <img src="https://lanyard.cnrad.dev/api/869540667439874048" width="400" height="200" />
+</a>
  
 ![Spotify playing](http://spotify.aio-api.ml/spotify?id=31trfufhc32s24gtx4vauik26yoe&theme=plain&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false)
   <!--
