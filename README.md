@@ -31,8 +31,8 @@
 
   <br />
   
-   <a href="https://discord.com/users/869540667439874048">
-     <img src="https://lanyard.cnrad.dev/api/869540667439874048" width="400" height="200" />
+  [![Discord Presence](https://lanyard.cnrad.dev/api/Rohit Mishra#3630
+                            )](https://discord.com/users/Rohit Mishra#3630)
   
 <div align="center">
 
