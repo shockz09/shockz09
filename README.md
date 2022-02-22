@@ -33,6 +33,7 @@
   <div align="center">
  <br/>
  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
  
  [![Discord Presence](https://lanyard.cnrad.dev/api/869540667439874048
                             )](https://discord.com/users/869540667439874048)
