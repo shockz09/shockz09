@@ -11,7 +11,7 @@
  
 ![shockz09's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockz09&show_icons=true&theme=chartreuse-dark&hide_border=true)
   
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shockz09&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shockz09&theme=dracula)
  
  ### 🔥 Streak stats
 
