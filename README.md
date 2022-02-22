@@ -33,8 +33,7 @@
   <div align="center">
  <br/>
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shockz09&theme=github_dark)
- 
+
  [![Discord Presence](https://lanyard.cnrad.dev/api/869540667439874048
                             )](https://discord.com/users/869540667439874048)
                             <br/>
