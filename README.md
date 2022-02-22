@@ -18,6 +18,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shockz09&theme=algolia" alt="shockz09" />
 </p>
  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shockz09&theme=github_dark)
+ 
 </div>
 <br />
 
