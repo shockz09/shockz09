@@ -39,6 +39,8 @@
 <br/>
 
 <a href="https://app.daily.dev/shockz09"><img src="https://api.daily.dev/devcards/c60c0344c1ee4e53921b7d7969b9e988.png?r=hmy" width="400" alt="Rohit Mishra's Dev Card"/></a>
+<br/>
+
 
  [![Discord Presence](https://lanyard.cnrad.dev/api/869540667439874048
                             )](https://discord.com/users/869540667439874048)
@@ -49,11 +51,9 @@
 
 </a>
  
-![Spotify playing](http://spotify.aio-api.ml/spotify?id=31trfufhc32s24gtx4vauik26yoe&theme=plain&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false)
-  <!--
 
 </div>
-
+<!-- 
 **shockz09/shockz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
