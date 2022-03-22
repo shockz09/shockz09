@@ -50,7 +50,7 @@
  
  </div>
 <div align="center">
-![](https://komarev.com/ghpvc/?username=shockz09)
+
 </a>
  
 
