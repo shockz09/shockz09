@@ -1,6 +1,7 @@
 <h1 align='center' style="color:DodgerBlue;"> Hi there 👋 I'm Rohit Mishra! Nice to Meet y'all</h1>
-![](https://komarev.com/ghpvc/?username=shockz09) <br>
+![](https://komarev.com/ghpvc/?username=shockz09)
 
+<br/>
 <div align="center">
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockz09&layout=compact&theme=chartreuse-dark&hide_border=true)
