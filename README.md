@@ -48,8 +48,5 @@
  
  </div>
 <div align="center">
-
-</a>
- 
-
+<a href="https://app.daily.dev/shockz09"><img src="https://api.daily.dev/devcards/c60c0344c1ee4e53921b7d7969b9e988.png?r=upr" width="400" alt="Rohit Mishra's Dev Card"/></a>
 </div>
