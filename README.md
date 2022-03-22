@@ -40,7 +40,7 @@
  
 <br/>
 
-<a href="https://app.daily.dev/shockz09"><img src="https://api.daily.dev/devcards/c60c0344c1ee4e53921b7d7969b9e988.png?r=hmy" width="400" alt="Rohit Mishra's Dev Card"/></a>
+
 <br/>
  [![Discord Presence](https://lanyard.cnrad.dev/api/869540667439874048
                             )](https://discord.com/users/869540667439874048)
