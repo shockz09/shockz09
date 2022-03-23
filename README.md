@@ -30,6 +30,8 @@
    <p align="center"> <a href="https://github.com/shockz09"><img src="https://github-profile-trophy.vercel.app/?username=shockz09" alt="shockz09" /></a> </p>
    <br/>
   <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=shockz09&theme=github" alt="Github Contribution graph" /></p> 
+  <br/>
+  
   [![Discord Presence](https://lanyard.cnrad.dev/api/869540667439874048)](https://discord.com/users/869540667439874048)
   <br />
 
