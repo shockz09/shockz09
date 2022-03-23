@@ -32,6 +32,7 @@
   <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=shockz09&theme=github" alt="Github Contribution graph" /></p> 
   <br/>
   <div align="center">
+ 
   [![Discord Presence](https://lanyard.cnrad.dev/api/869540667439874048)](https://discord.com/users/869540667439874048)
  </div> 
  <br />
