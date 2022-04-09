@@ -4,6 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+Myself+Rohit+Mishra)](https://git.io/typing-svg)
 
 <br/>
+
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+
+<br/>
 <div align="center">
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockz09&layout=compact&theme=chartreuse-dark&hide_border=true)
