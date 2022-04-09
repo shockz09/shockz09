@@ -5,7 +5,9 @@
 
 <br/>
 
-![Visitor Count](https : //profile-counter.glitch.me/{shockz09}/count.svg)
+<p align="center">
+    <img src="https://profile-counter.glitch.me/shockz09/count.svg"/>
+</p>
 
 
 <br/>
