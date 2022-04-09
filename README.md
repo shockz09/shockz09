@@ -1,6 +1,7 @@
 <h1 align='center' style="color:DodgerBlue;"> Hi there 👋 I'm Rohit Mishra! Nice to Meet y'all</h1>
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+Myself+Rohit+Mishra)](https://git.io/typing-svg)
 
 <br/>
 <div align="center">
